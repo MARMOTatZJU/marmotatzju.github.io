@@ -41,7 +41,7 @@ Skills
 * Techinical interests
   * Graphics basics (GAMES-101) / Game engine basics (GAMES-104) / Physics-based animation (GAMES-105)
 
-Publications
+Publications & Technical Reports
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
