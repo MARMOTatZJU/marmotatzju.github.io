@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D** in Computer Science, **Shanghai Jiao Tong University**, 2027 (expected)
+* **MEng** in Electrical Engineering, **Zhejiang University**, 2021
+* **BEng** in Electrical Engineering and its Automation, **Zhejiang University**, 2017
 
-Work experience
+Working experience / Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2021 - 04/2023: Software Engineer (Prediction & Planning Team), **DeepRoute.ai**
+  * Deep Reinforcement Learning-based Trajectory Tracking
+  * Reachability Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2020 - 05/2021: Software Engineer (Perception Team), **Momenta.ai**
+  * Camera Perception (Detection and Tracking)
+  * Auto-labeling
+
+* 01/2019 - 11/2019: Research Intern , **Megvii (Face++)**
+  * Visual Object Tracking (SiamFC++)
+    * https://github.com/megvii-research/video_analyst
+  * Supervisor: Zuoxin Li, Gang Yu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Techinical skills
+  * PyTorch / StableBaseline3 / OpenAIGym
+* Basic skills
+  * Python / C&C++&CMake / Git / Shell / Docker
+* Languages
+  * Chinese（Native language）/ English (TOIEC 850/990) / French (DALF C1) / Spanish (Intermediate@Duolinguo)
+* Techinical interests
+  * Graphics basics (GAMES-101) / Game engine basics (GAMES-104) / Physics-based animation (GAMES-105)
 
 Publications
 ======
@@ -42,18 +47,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
