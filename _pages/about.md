@@ -11,7 +11,18 @@ redirect_from:
 Biography
 ======
 
-Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His long-term interests consist of Multi-Agent Intelligence, planning and decision-making.
+Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His long-term interests consist of Robot Learning and Embodied AI. Specifically, Manipulation, Planning and Decision-Making, and Multi-Agent Intelligence.
+
+Currently, he is conducting research in Robotics/Embodied AI at the **Beijing Academy Of AI (BAAI)** and the **Beijing Institute of General Artificial Intelligence**, jointly.
+
+<!-- TEMPLATE FOR SEEKING OPPORTUNITIES -->
+<!-- *NOTE: Currently, he is actively seeking an opportunity for a Research Internship which is within the following domains:* -->
+<!-- - *Embodied AI/Robot Learning*
+- *Manipulation (Bimanual/Dexterous Hand/etc.)*
+- *Force Feedback/Contact-Rich Tasks* -->
+<!-- - *LLM Planning/Reasoning/Alignment/Agent* -->
+<!-- *Please feel free to reach out to him if you find him suitable.* -->
+<!-- TEMPLATE END. -->
 
 He served as a Software Engineer (Prediction & Planning) at **DeepRoute.ai**, Shenzhen, China. His latest projects involve Deep Reinforcement Learning-based Trajectory Tracking, Reachability Analysis, Game Theoretic Optimization, and more.
 

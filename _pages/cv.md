@@ -17,8 +17,17 @@ Education
 
 Working experience / Internship
 ======
+
+* 11/2024 - Now: Research Intern (Robotics/Embodied AI), **Beijing Academy of AI (BAAI)**
+  * High-Level Task and Motion Planning
+  * Robotic Benchmark
+
+* 11/2024 - Now: Research Intern, **Beijing Institute of General AI (BIGAI)**
+
+* 01/2024 - 10/2024: Research Intern (Robotics/Embodied AI), **Zhipu.ai**
+
 * 06/2021 - 04/2023: Software Engineer (Prediction & Planning Team), **DeepRoute.ai**
-  * Deep Reinforcement Learning-based Trajectory Tracking
+  * [Deep Reinforcement Learning-based Trajectory Tracking](https://github.com/MARMOTatZJU/drl-based-trajectory-tracking)
   * Reachability Analysis
 
 * 09/2020 - 05/2021: Software Engineer (Perception Team), **Momenta.ai**
@@ -26,8 +35,7 @@ Working experience / Internship
   * Auto-labeling
 
 * 01/2019 - 11/2019: Research Intern , **Megvii (Face++)**
-  * Visual Object Tracking (SiamFC++)
-    * https://github.com/megvii-research/video_analyst
+  * [Visual Object Tracking (SiamFC++)](https://github.com/megvii-research/video_analyst)
   * Supervisor: Zuoxin Li, Gang Yu
 
 
@@ -36,6 +44,20 @@ Working experience / Internship
 </div>
 <div class="container">
   <div id="timeline">
+    <div class="timelineitem">
+      <div class="tdate">2024/11 - Now</div>
+      <div class="ttitle"><a href="https://www.baai.ac.cn/english.html">BAAI</a>, Research Intern in Robotics/Embodied AI </div>
+      <div class="tdesc"> Advised by <span class="thigh"> <a href="https://www.shanghangzhang.com/">Prof. Shanghang Zhang</a> </span> </div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">2024/11 - Now</div>
+      <div class="ttitle"><a href="http://eng.bigai.ai/">BIGAI</a>, Research Intern </div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">2024/01 - 2024/10</div>
+      <div class="ttitle"><a href="https://www.zhipuai.cn/en/">Zhipu.ai</a>, Research Intern in Robotics/Embodied AI </div>
+      <div class="tdesc"> Working with <span class="thigh"> <a href="https://scholar.google.com/citations?user=Va50YzkAAAAJ">Ming Ding</a> </span> and <span class="thigh"> <a href="https://scholar.google.com/citations?user=gxdjxrwAAAAJ">Tong Yang</a> </span> </div>
+    </div>
     <div class="timelineitem">
       <div class="tdate">2023/09 - 2027/06 (expected)</div>
       <div class="ttitle"><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, PhD in Computer Science </div>
