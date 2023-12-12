@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yinda Xu's Personal Site"
+title: "Yinda (Frédéric) Xu's Personal Site"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 
-Yinda Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His long-term interests consist of Multi-Agent Intelligence, planning and decision-making.
+Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His long-term interests consist of Multi-Agent Intelligence, planning and decision-making.
 
 He served as a Software Engineer (Prediction & Planning) at **DeepRoute.ai**, Shenzhen, China. His latest projects involve Deep Reinforcement Learning-based Trajectory Tracking, Reachability Analysis, Game Theoretic Optimization, and more.
 
