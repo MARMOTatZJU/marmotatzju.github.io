@@ -34,6 +34,11 @@ Key-words:
 Motion Planning (Trajectory Tracking) / Reinforcement Learning / Computer Vision (Visual Tracking) / Machine Learning / Autonomous Driving
 
 
+Schedule a Meeting with Yinda Xu
+======
+Frederic is open to meetings, including technical exchanges, discussions on academic research, advices on career path, and more. He can speak Chinese/English/French for in-depth conversations. To schedule a meeting, please visit [his Calendly](https://calendly.com/yinda_xu/30min).
+
+
 Acknowledgement
 ------
 This personal site is built on top of **academicpages**. More info about using/configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) might also be helpful.
