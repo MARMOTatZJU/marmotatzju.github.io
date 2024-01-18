@@ -13,7 +13,7 @@ Biography
 
 Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His long-term interests consist of Robot Learning and Embodied AI. Specifically, Manipulation, Planning and Decision-Making, and Multi-Agent Intelligence.
 
-He will be a research intern in Robotics at **Zhipu.ai**.
+Currently, he is conducting a research internship in Robotics at **Zhipu.ai**, focusing on *Collaborative Bimanual Manipulation*, *Mobile Manipulation*, and more.
 
 <!-- *NOTE: Currently, he is actively seeking an opportunity for a Research Internship which is within the following domains:* -->
 

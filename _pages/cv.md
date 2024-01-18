@@ -17,6 +17,10 @@ Education
 
 Working experience / Internship
 ======
+* 01/2024 - Now: Research Intern (Robotics), **Zhipu.ai**
+  * Collaborative Bimanual Manipulation
+  * Mobile Manipulation
+
 * 06/2021 - 04/2023: Software Engineer (Prediction & Planning Team), **DeepRoute.ai**
   * Deep Reinforcement Learning-based Trajectory Tracking
   * Reachability Analysis
@@ -36,6 +40,12 @@ Working experience / Internship
 </div>
 <div class="container">
   <div id="timeline">
+    <div class="timelineitem">
+      <div class="tdate">2024/01 - Now</div>
+      <div class="ttitle"><a href="https://www.zhipuai.cn/en/">Zhipu.ai</a>, Research Intern in Robotics </div>
+      <div class="tdesc"> Manipulation </div>
+      <div class="tdesc"> Working with <span class="thigh"> <a href="https://scholar.google.com/citations?user=Va50YzkAAAAJ">Ming Ding</a> </span> </div>
+    </div>
     <div class="timelineitem">
       <div class="tdate">2023/09 - 2027/06 (expected)</div>
       <div class="ttitle"><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, PhD in Computer Science </div>
