@@ -121,11 +121,14 @@ Flag Raising Ceremony on the Tiananmen Square, Beijing, China
 ==========================================================================================
 The moment where a soldier from the Beijing Garrison Honor Guard Battalion unrolled the Five-star Red Flag. A team of officers were saluting uniformly to the flag.
 
-Sadly, the ISO was too high otherwise the shutter speed would not be fast enough to capture the very short moment of unrolling without motion blur. Hopefully, nowdays we have a bunch of powerful and off-the-shelf AIGC tools which may help to denoise this photo.
+The original version of this photo contains many noises due to insufficient light and fast speed of the unrolling motion. The ISO was too high otherwise the shutter speed would not be fast enough to capture the very short moment of unrolling without motion blur. Hopefully, nowdays we have a bunch of powerful and off-the-shelf AIGC tools which may help to denoise this photo. Current version was denoised with the noise filter in Photoshop©.
 
-Reference: [Beijing Garrison Honor Guard Battalion](https://en.wikipedia.org/wiki/Beijing_Garrison_Honor_Guard_Battalion)
+Reference:
 
-![IMG_7884](photography/IMG_7884.jpg)
+- [Beijing Garrison Honor Guard Battalion](https://en.wikipedia.org/wiki/Beijing_Garrison_Honor_Guard_Battalion)
+- [Photoshop Noise Filter](https://helpx.adobe.com/photoshop-elements/using/noise-filters.html)
+
+![IMG_7884](photography/IMG_7884_denoised.jpg)
 
 $~$
 
