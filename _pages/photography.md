@@ -136,11 +136,36 @@ _________________
 
 
 
+Parked KTM250Duke at the Roadside of Grass Skyline, Zhangjiakou, China
+==========================================================================================
+
+Birthday ride with my motorbike. Celebrate my 30th anniversary and head into the next decade of my life.
+
+![IMG_5287](photography/IMG_1849.jpg)
+
+$~$
+
+_________________
+
+
+
 Overhead View of Yuquan Campus of Zhejiang University, Hangzhou, China
 ==========================================================================================
 For reaching the view point, one needs to start from the library of Yuquan Campus and climb several hundreds of steps of the Laohe mountain.
 
 ![IMG_7884](photography/IMG_1376.jpg)
+
+$~$
+
+_________________
+
+
+
+Anabranch of the Yellow River, Shanxi, China
+==========================================================================================
+Two vehicles is crossing on a bridge over an anabranch of the Yellow River. Taken during a motorcycle road trip along the Yellow River and crossing the Qin Mountains.
+
+![IMG_7884](photography/IMG_2032.jpg)
 
 $~$
 
