@@ -18,9 +18,11 @@ Education
 Working experience / Internship
 ======
 
-* 11/2024 - Now: Research Intern (Robotics/Embodied AI), **Beijing Academy of AI (BAAI)**
-  * High-Level Task and Motion Planning
-  * Robotic Benchmark
+* 02/2025 - Now: Research Intern (Robotics/Embodied AI), **Horizon Robotics**
+
+* 11/2024 - 01/2025: Research Intern (Robotics/Embodied AI), **Beijing Academy of AI (BAAI)**
+<!--   * High-Level Task and Motion Planning -->
+<!--  * Robotic Benchmark -->
 
 * 11/2024 - Now: Research Intern, **Beijing Institute of General AI (BIGAI)**
 
@@ -45,7 +47,12 @@ Working experience / Internship
 <div class="container">
   <div id="timeline">
     <div class="timelineitem">
-      <div class="tdate">2024/11 - Now</div>
+      <div class="tdate">2025/02 - Now</div>
+      <div class="ttitle"><a href="https://en.horizon.auto/">Horizon Robotics</a>, Research Intern in Robotics/Embodied AI </div>
+      <div class="tdesc"> Advised by <span class="thigh"> <a href="https://openreview.net/profile?id=~Yucheng_Wang2">Dr. Yucheng Wang</a> </span> </div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">2024/11 - 2025/01</div>
       <div class="ttitle"><a href="https://www.baai.ac.cn/english.html">BAAI</a>, Research Intern in Robotics/Embodied AI </div>
       <div class="tdesc"> Advised by <span class="thigh"> <a href="https://www.shanghangzhang.com/">Prof. Shanghang Zhang</a> </span> </div>
     </div>
