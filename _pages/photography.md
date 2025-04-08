@@ -228,6 +228,21 @@ _________________
 
 
 
+KTM250Duke Parked at the Entrance of Mulan Paddock (木兰围场), Chengde, China
+==========================================================================================
+
+Previous serving as a hunting ground during the Qing Dynasty, Mulan Paddock is now named the Saihanba (塞罕坝) National Forest Park and is connected to the eastern starting point of the National Scenic Highway No. 1 (国家一号风景大道) whose length is 180km.
+
+Taken on the last day of my [longest multi-day road trip by motorcycle](https://www.foooooot.com/trip/8851195/) accomplished alone. This day, I drove more than 200km of [highways](https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E9%81%93) and 400km of [expressways](https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF) with my bike.
+
+[![IMG_5842](photography/thumbnails/IMG_5842_tn.jpg)](../_pages/photography/IMG_5842.jpg)
+
+$~$
+
+_________________
+
+
+
 LICENSE
 ==========================================================================================
 
