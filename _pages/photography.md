@@ -212,6 +212,22 @@ _________________
 
 
 
+Sunrise Taken at Dongjiang (东疆), Tianjin, China
+==========================================================================================
+Taken during a motorcycle road trip. This scene reminds me of the opening image of [ED20 of *One Piece*](https://www.youtube.com/watch?v=1yRn2N9BwRY) as well as the first sentence of [lyrics of "Dear Sunrise"](https://onepiece.fandom.com/wiki/Dear_sunrise) by Maki Otsuki which is accompanied by a sentiment of reaching the end of a grand journey.
+
+`どれだけ走ってきたのか、分からないまま傷跡数えた。`
+
+It resonates with me by recalling the distance of my life path already accomplished which is paved with my past achievements. I feel like someone is telling me, "A valuable past worths continuous endeavor in the future.". `さ、諦めないよ。`
+
+[![IMG_5051](photography/thumbnails/IMG_5051_tn.jpg)](../_pages/photography/IMG_5051.jpg)
+
+$~$
+
+_________________
+
+
+
 LICENSE
 ==========================================================================================
 
