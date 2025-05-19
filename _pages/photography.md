@@ -243,6 +243,36 @@ _________________
 
 
 
+Lakeside of Qinghai Lake, Qinghai, China
+==========================================================================================
+
+View of Qinghai Lake from the ring road. I had been waiting until a vehicle passed the center between two poles. The lower part is a piece of grassland accompanied by a herd of sheep. The weather was a bit foggy which made the upper part of the lake in the photo covered of white fog. As the largest lake in China, Qinghai Lake is preserved carefully and only allows tourists to reach the lakeside of a limited number of areas.
+
+Reference: [Qinghai Lake](https://en.wikipedia.org/wiki/Qinghai_Lake)
+
+[![IMG_1088](photography/thumbnails/IMG_1088_tn.jpg)](../_pages/photography/IMG_1088.jpg)
+
+$~$
+
+_________________
+
+
+
+Sunrise Taken from the Peak of Mount Tai, Qinghai, China
+==========================================================================================
+
+Sunrise witnessed from Sun Viewing Peak. Deemed as the most revered one of the Five Sacred Mountains (五岳独尊), Mount Tai is famous for its grandiose landscape, rock carving with calligraphy, and more. Witnessing the sunrise on the peak after climbing Mount Tai during the night without sleep is a popular activity, especially among university students.
+
+Reference: [Mount Tai](https://en.wikipedia.org/wiki/Mount_Tai)
+
+[![IMG_1305](photography/thumbnails/IMG_1305_tn.jpg)](../_pages/photography/IMG_1305.jpg)
+
+$~$
+
+_________________
+
+
+
 LICENSE
 ==========================================================================================
 
