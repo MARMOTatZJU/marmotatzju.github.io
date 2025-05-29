@@ -243,6 +243,19 @@ _________________
 
 
 
+KTM250Duke During the Ring Road around Qinghai Lake, Qinghai, China
+==========================================================================================
+
+The Qinghai Lake area is a mixture of deserts and lakes. The well-constructed infrastructure makes it possible for a large quantity of tourists to travel by car, by bicycle, and by motorcycle.
+
+[![IMG_1058](photography/thumbnails/IMG_1058_tn.jpg)](../_pages/photography/IMG_1058.jpg)
+
+$~$
+
+_________________
+
+
+
 Lakeside of Qinghai Lake, Qinghai, China
 ==========================================================================================
 
