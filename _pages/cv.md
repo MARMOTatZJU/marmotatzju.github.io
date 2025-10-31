@@ -18,7 +18,7 @@ Education
 Working experience / Internship
 ======
 
-* 02/2025 - Now: Research Intern (Robotics/Embodied AI), **Horizon Robotics**
+* 02/2025 - 07/2025: Research Intern (Robotics/Embodied AI), **Horizon Robotics**
 
 * 11/2024 - 01/2025: Research Intern (Robotics/Embodied AI), **Beijing Academy of AI (BAAI)**
 <!--   * High-Level Task and Motion Planning -->
@@ -47,7 +47,7 @@ Working experience / Internship
 <div class="container">
   <div id="timeline">
     <div class="timelineitem">
-      <div class="tdate">2025/02 - Now</div>
+      <div class="tdate">2025/02 - 07/2025</div>
       <div class="ttitle"><a href="https://en.horizon.auto/">Horizon Robotics</a>, Research Intern in Robotics/Embodied AI </div>
       <div class="tdesc"> Advised by <span class="thigh"> <a href="https://openreview.net/profile?id=~Yucheng_Wang2">Dr. Yucheng Wang</a> </span> </div>
     </div>

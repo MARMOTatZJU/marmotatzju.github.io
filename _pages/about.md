@@ -11,9 +11,7 @@ redirect_from:
 Biography
 ======
 
-Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His research interests consist of Robot Learning and Embodied AI.
-
-Currently, he is conducting research in Robotics/Embodied AI at the **Horizon Robotics**, focusing on *Humanoid Locomotion and Manipulation*, *Whole-Body Control*.
+Yinda (Frédéric) Xu (许胤达) is a PhD student in Computer Science at **Shanghai Jiaotong University**. His research interests consist of Robot Learning and Embodied AI. Currently, he is conducting research in Robotics/Embodied AI.
 
 <!-- TEMPLATE FOR SEEKING OPPORTUNITIES -->
 <!-- *NOTE: Currently, he is actively seeking an opportunity for a Research Internship which is within the following domains:* -->
