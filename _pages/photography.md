@@ -286,6 +286,23 @@ _________________
 
 
 
+Autumn at Hongluo Temple（红螺寺）, Beijing, China
+==========================================================================================
+
+The gilded plaque is accompanied by a couple of male and female ginkgo Trees. The female tree is on the east side, which does not flower but bears fruit; the male tree is on the west side, which flowers but does not bear fruit. It is said that since these two ginkgo trees were planted in the Tang Dynasty, the male ginkgo tree has grown an additional lateral trunk with each new dynasty.
+
+At the beginning of November, the photo is taken close to the 8h30 am which is almost the only moment of the day that the sunlight can light the gilded plaque through the occlusion of the architectures and surrounded trees of the temple.
+
+From 2018 when I watched for the first time the time-lapse video depicting Beijing, [THE BEST OF BEIJING 最好的北京](https://youtu.be/EGfSrsOWOwA?t=66), I have been keeping a wish to see all places appearing in the above video, one after another. Now with my motorcycle 250Duke, I am realizing my wish which might seem a little childish. On discovering every place in the video, I always feel the same sentiment as the one a child would have while picking a beautiful shell on the sea shore.
+
+[![IMG_3510](photography/thumbnails/IMG_3510_tn.jpg)](../_pages/photography/IMG_3510.jpg)
+
+$~$
+
+_________________
+
+
+
 LICENSE
 ==========================================================================================
 
