@@ -303,6 +303,19 @@ _________________
 
 
 
+Guomao CBD, Beijing, China
+==========================================================================================
+
+Taken from the highest platform（鬼笑石） within the Beijing West Mountain National Forest Park.
+
+[![IMG_4555](photography/thumbnails/IMG_4555_tn.jpg)](../_pages/photography/IMG_4555.jpg)
+
+$~$
+
+_________________
+
+
+
 LICENSE
 ==========================================================================================
 
