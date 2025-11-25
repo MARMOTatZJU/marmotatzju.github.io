@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "image-yinda_xu.jpg"
+  avatar           : "image-yinda_xu-hiking.jpg"
   bio              : *description
   location         : "Shanghai, China"
   employer         :
